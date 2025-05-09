@@ -22,3 +22,22 @@
 //     console.log("Both are equal");
 // }
 
+// Question no 3: A student will not be allowed to sit in the exam if their attendance is less than 75%. Create integer variables:
+
+// classesHeld = 16,
+
+// classesAttended = 10,
+// then calculate and print the attendance percentage. Determine if the student is allowed to sit in the exam.
+
+
+// let classesHeld = 16;
+// let classesAttended = 10;
+
+// let percentOfClass = classesAttended/classesHeld * 100;
+
+// if (percentOfClass <= 75) {
+//     console.log("YOU ARE NOT ALLOWED IN EXAM");
+//     console.log("Your percentage of Classes is " + percentOfClass);
+// }else{
+//     console.log("YOU ARE ALLOWED IN EXAM");
+// }

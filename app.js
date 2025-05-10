@@ -41,3 +41,17 @@
 // }else{
 //     console.log("YOU ARE ALLOWED IN EXAM");
 // }
+
+
+
+// QUestion no 4: create an integer variable 'year' and assign any year to it. Check if it's a leap year:- If divisible by 4 -> leap year,- If it's a century year (e.g., 2000, 1900), it must be divisible by 400.
+
+// let year = 300;
+
+// if (year % 4 === 0 && year % 100 === 0 || (year % 400 === 0)) {
+//     console.log("its a leap year");
+// }else{
+//     console.log("this is not a leap year")
+// }
+
+

@@ -81,3 +81,33 @@
 // } else {
 //     console.log("this alphabet is constant");
 // }
+
+
+// Question no 7: Write a program to calculate and print an electricity bill for a customer with:- 'customerId', 'name', 'unitsConsumed',- Charges:- Up to 199 units -> Rs. 1.20/unit,- 200-399 -> Rs. 1.50/unit,- 400-599 -> Rs. 1.80/unit,- >=600 -> Rs. 2.00/unit.
+//  Test Data:- 'id: 1001', 'name: "James"', 'units: 800'.
+
+
+
+// let customerId = 1001;
+// let customerName = "Mohib";
+// let consumedUnits = 800;
+
+// let perUnitPrice;
+
+// if (consumedUnits > 0 && consumedUnits < 200) {
+//     perUnitPrice = 1.20;
+// } else if (consumedUnits >= 200 && consumedUnits < 400) {
+//     perUnitPrice = 1.50;
+// } else if (consumedUnits >= 400 && consumedUnits < 600) {
+//     perUnitPrice = 1.80;
+// } else {
+//     perUnitPrice = 2.00;
+// }
+
+// let totalPrice = consumedUnits * perUnitPrice;
+
+// console.log("Customer ID Number : " + customerId);
+// console.log("Customer Name : " + customerName);
+// console.log("Total Units : " + consumedUnits);
+// console.log("Amount Charges @Rs. " + perUnitPrice.toFixed(2) + " per Unit : Total Amount : " + totalPrice.toFixed(2));
+// console.log("Net Bill Amount : " + totalPrice.toFixed(2)); 

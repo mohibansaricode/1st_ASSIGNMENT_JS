@@ -54,4 +54,20 @@
 //     console.log("this is not a leap year")
 // }
 
+// Question no 5: Write a program that reads a temperature in Celsius ('temperature = 42') and displays a message:- < 0 -> Freezing weather,- 0-10 -> Very Cold weather,- 10-20 -> Cold weather,- 20-30 -> Normal,- 30-40 -> Hot,- >=40 -> Very Hot
 
+// let temprature = 22;
+
+// if (temprature >= 40) {
+//     console.log("it is very hot weather");
+// } else if (temprature < 40 && temprature >= 30) {
+//     console.log("it is hot weather");
+// } else if (temprature < 30 && temprature >= 20) {
+//     console.log("it is normal weather");
+// } else if (temprature < 20 && temprature >= 10) {
+//     console.log("it is cold weather");
+// } else if (temprature < 10 && temprature >= 0) {
+//     console.log("it is very cold weather");
+// } else {
+//     console.log("freezing weather");
+// }

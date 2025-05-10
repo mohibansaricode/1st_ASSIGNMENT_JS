@@ -71,3 +71,13 @@
 // } else {
 //     console.log("freezing weather");
 // }
+
+// Question no 6: Write a program to check whether an alphabet is a vowel or consonant.
+
+// let alphabet = "q";
+
+// if (alphabet == "a" || alphabet == "e" || alphabet == "i" || alphabet == "o" || alphabet == "u") {
+//     console.log("this alphabet is vowel");
+// } else {
+//     console.log("this alphabet is constant");
+// }

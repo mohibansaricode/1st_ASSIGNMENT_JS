@@ -178,3 +178,12 @@
 // } else {
 //     console.log("please enter diffrent value each input");
 // }
+
+
+// question no 11 : Write a program to calculate the square root of a number (sqrty = y^0.5).
+
+//   let input = prompt("Enter your number")
+//   int number = int.parse(rootInput!);
+//   num rootNum = sqrt(number);
+//   double rootValue = double.parse(rootNum.toStringAsFixed(2));
+//   print("The Root of $number is $rootValue");

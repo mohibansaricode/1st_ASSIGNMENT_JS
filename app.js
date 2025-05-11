@@ -139,3 +139,23 @@
 // }else{
 //     console.log("SOmthing is wrong");
 // }
+
+
+// Question no 9: 
+//  Check if a number is even or odd. If even, check if divisible by 5. If odd, check if divisible by 7.
+
+
+// let number = 29493;
+// if (number % 2 == 0) {
+//     if (number % 5 == 0) {
+//         console.log("this number $number is even and divisible by 5");
+//     } else {
+//         console.log("this number $number is even and not divisible by 5");
+//     }
+// } else {
+//     if (number % 7 == 0) {
+//         console.log("this number $number is odd and divisible by 7");
+//     } else {
+//         console.log("this number $number is odd and not divisible by 7");
+//     }
+// }

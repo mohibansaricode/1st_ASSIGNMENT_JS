@@ -111,3 +111,31 @@
 // console.log("Total Units : " + consumedUnits);
 // console.log("Amount Charges @Rs. " + perUnitPrice.toFixed(2) + " per Unit : Total Amount : " + totalPrice.toFixed(2));
 // console.log("Net Bill Amount : " + totalPrice.toFixed(2)); 
+
+
+//  Question no 8. Write a JavaScript program which computes the average marks of the
+//  following students Then, this average is used to determine the corresponding
+//  grade.
+
+// let englishMarks = +prompt("Enter Your English Marks");
+// let mathMarks = +prompt("Enter Your Math Marks");
+// let urduMarks = +prompt("Enter Your Urdu Marks");
+// let islamiyatMarks = +prompt("Enter Your Islamiyat Marks");
+
+// let totalNumber = englishMarks+mathMarks+urduMarks+islamiyatMarks;
+
+// let gradePercentage = totalNumber / 400 * 100;
+
+// if (gradePercentage < 60) {
+//     console.log("Your Grade is E And Your percentage is " +gradePercentage);
+// } else if(gradePercentage < 70){
+//     console.log("Your Grade is D And Your percentage is " +gradePercentage);
+// }else if(gradePercentage < 80){
+//     console.log("Your Grade is C And Your percentage is " +gradePercentage);
+// }else if(gradePercentage < 90){
+//     console.log("Your Grade is B And Your percentage is " +gradePercentage);
+// }else if(gradePercentage <= 100){
+//     console.log("Your Grade is A And Your percentage is " +gradePercentage);
+// }else{
+//     console.log("SOmthing is wrong");
+// }

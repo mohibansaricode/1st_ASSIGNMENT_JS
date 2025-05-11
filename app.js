@@ -159,3 +159,22 @@
 //         console.log("this number $number is odd and not divisible by 7");
 //     }
 // }
+
+// Question no 10 : Write a program that takes three numbers and prints the greatest and lowest numbers.
+
+// let userOne = 13;
+// let userTwo = 45;
+// let userThree = 2;
+// if (userOne > userTwo && userOne > userThree) {
+//     console.log("Greatest number is $userOne");
+// } else if (userTwo > userOne && userTwo > userThree) {
+//     console.log("Greatest number is $userTwo");
+// } else if (userThree > userOne && userThree > userTwo) {
+//     console.log("Greatest number is $userThree");
+// } else if (userOne == userTwo && userOne == userThree ||
+//     userTwo == userOne && userTwo == userThree ||
+//     userThree == userOne && userThree == userTwo) {
+//     console.log("Both are equal");
+// } else {
+//     console.log("please enter diffrent value each input");
+// }
